@@ -21,10 +21,12 @@
 
 ## Tecnologias estou aprendendo 
 
-<img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="kotlin" src= "	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img align="center" alt="mysql" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<div style= "display: incline_block"><br/>
+    <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="kotlin" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" alt="mysql" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
 
 ## Finalizando
 Um sonhador amante da tecnologia e do aperfeiçoamento continuo em busca do bem mais valioso da humanidade "o conhecimento".
