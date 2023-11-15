@@ -6,9 +6,6 @@
 
 ![Yuzodin GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuzodin&show_icons=true&theme=dark)
 [![Yuzodin GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzodin&layout=donut)](https://github.com/Yuzodin/github-readme-stats)
-![Yuzodin GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YUzodin&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzodin&hide_progress=true)
-
 ## Tecnologias que uso no dia a dia
 
 <div style= "display: incline_block"><br/>
