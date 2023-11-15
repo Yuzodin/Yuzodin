@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-santos-461bb2288/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camini_o_yuri/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yuri22.camsantos@gmail.com)
 
 ![Yuzodin GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuzodin&show_icons=true&theme=dark)
 [![Yuzodin GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzodin&layout=donut)](https://github.com/Yuzodin/github-readme-stats)
