@@ -5,6 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yuri22.camsantos@gmail.com)
 
 ![Yuzodin GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuzodin&show_icons=true&theme=dark)
+
+
 [![Yuzodin GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzodin&layout=donut)](https://github.com/Yuzodin/github-readme-stats)
 ![Yuzodin GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YUzodin&layout=compact)
 
