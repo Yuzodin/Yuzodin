@@ -19,12 +19,13 @@
 
 <div style= "display: incline_block"><br/>
     <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="kotlin" src= "	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="C" src= "	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit"/>
+    <img align="center" alt="kotlin" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" alt="C" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit"/>
     <img align="center" alt="C#" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="react" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="typescript" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>    
+ 
 
 ## Finalizando
 A dreamer who loves technology and continuous improvement in search of humanity's most valuable asset "knowledge".
