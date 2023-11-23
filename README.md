@@ -8,7 +8,9 @@
 
 
 [![Yuzodin GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzodin&layout=donut)](https://github.com/Yuzodin/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuzodin&hide_progress=true)
 ![Yuzodin GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YUzodin&layout=compact)
+
 
 ## Tecnologias que uso no dia a dia
 
