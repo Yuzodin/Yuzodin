@@ -20,7 +20,7 @@
     <img align="center" alt="node.js" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-## Tecnologias que estou aprendendo ou pretendo aprender
+##Tecnologias que estou aprendendo ou pretendo aprender
 
 <div style= "display: incline_block"><br/>
     <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
