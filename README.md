@@ -1,6 +1,6 @@
 ### Hello, I'm Yuzodin 👋😎, but you can call me Yuri. I am currently studying software development at Proz Educação starting on 05/22/2023 and ending on 05/13/2025.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-santos-461bb2288/)
+[![Linkedin](https://www.linkedin.com/in/yuri-camini-461bb2288/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camini_o_yuri/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yuri.canimi.3/?locale=pt_BR)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.yuri22.camsantos@gmail.com)
